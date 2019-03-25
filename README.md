@@ -2,13 +2,13 @@
 
 Des fois je m'emmerde et j'écris des trucs. C'est pas souvent bien, mais pas non plus mauvais. Ni médiocre. C'est pas grand chose en fait...
 
-## Petit sommaire
+## Petit sommaire et contextes d'écriture
 
  - Le curry mélodieux
 
 ```
 J'ai écris ça dans le contexte du défi : "Trois émotes = un dessin" où on doit prendre trois émoticônes au 
-hasard et s'en inspirer pour faire un dessin.
+hasard et s'en inspirer pour faire un dessin. Mais ne sachant pas dessiner, j'ai écris un truc.
 Émotes : 'poisson' 'curry' 'notes de musique'
 ```
 

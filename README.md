@@ -8,7 +8,7 @@ Des fois je m'emmerde et j'écris des trucs. C'est pas souvent bien, mais pas no
 
 ```
 J'ai écris ça dans le contexte du défi : "Trois émotes = un dessin" où on doit prendre trois émoticônes au hasard et s'en inspirer pour faire un dessin.
-Les émotes étaient : 'poisson' 'curry' 'notes de musique'
+Émotes : 'poisson' 'curry' 'notes de musique'
 ```
 
  - Lesquelles cornes violae

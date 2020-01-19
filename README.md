@@ -7,12 +7,17 @@ Des fois je m'emmerde et j'écris des trucs. C'est pas souvent bien, mais pas no
  - Le curry mélodieux
 
 ```
-J'ai écris ça dans le contexte du défi : "Trois émotes = un dessin" où on doit prendre trois émoticônes
+J'ai écrit ça dans le contexte du défi : "Trois émotes = un dessin" où on doit prendre trois émoticônes
 au hasard et s'en inspirer pour faire un dessin. Mais je sais pas dessiner...
 Émotes : 'poisson' 'curry' 'notes de musique'
 ```
 
- - Lesquelles cornes violae
+ - Gagou, ankou
+```
+Première création à l'atelier d'écriture de Bergerac Hoplaplume. (13/01/20)
+```
+
+ - Quicornes violettes
 
 ```
 Quand je pense à des petites phrases ou des tout petits poèmes à deux ronds, je les met là.

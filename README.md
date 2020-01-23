@@ -16,7 +16,7 @@ au hasard et s'en inspirer pour faire un dessin. Mais je sais pas dessiner...
 ```
 Première création à l'atelier d'écriture de Bergerac Hoplaplume. (13/01/20)
 Thème : "Un métier que vous n'avez jamais fait"
-On a jamais dit que ça devait être réaliste.
+On n'a jamais dit que ça devait être réaliste.
 ```
 
  - Mon compagnon

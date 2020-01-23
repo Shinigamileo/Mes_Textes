@@ -15,6 +15,15 @@ au hasard et s'en inspirer pour faire un dessin. Mais je sais pas dessiner...
  - Gagou, ankou
 ```
 Première création à l'atelier d'écriture de Bergerac Hoplaplume. (13/01/20)
+Thème : "Un métier que vous n'avez jamais fait"
+On a jamais dit que ça devait être réaliste.
+```
+
+ - Mon compagnon
+```
+Deuxième création pour l'atelier d'écriture de Bergerac Hoplaplume. (20/01/20)
+Thème : "Un Amour vécu (avec un grand A)"
+J'ai pas de chien, pas de chat, pas de petite amie... Du coup...
 ```
 
  - Quicornes violettes

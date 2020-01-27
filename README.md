@@ -19,6 +19,13 @@ Thème : "Un métier que vous n'avez jamais fait"
 On n'a jamais dit que ça devait être réaliste.
 ```
 
+ - La main droite de Raymond Mansart
+```
+Troisième création à l'atelier d'écriture de Bergerac Hoplaplume. (27/01/20)
+Thème : "L'intelligence de la main"
+Je l'ai peut-être pris un peu trop au pied de la lettre
+```
+
  - Mon compagnon
 ```
 Deuxième création pour l'atelier d'écriture de Bergerac Hoplaplume. (20/01/20)

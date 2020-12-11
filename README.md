@@ -71,9 +71,7 @@ Vraisemblablement, l'un de mes organes me chatouillait durant l'écriture de ce 
 Première création à l'atelier d'écriture de Bergerac Hoplaplume
 durant le confinement de novembre 2020.
 Thème : "Vous avez 7 ans et vous vous amusez"
-C'était Halloween... du coup deux points :
- 1.) attendez-vous à un peu d'horreur, vous êtes prévenus,
- 2.) et vu qu'on me le demande régulièrement : non ce n'est pas autobiographique.
+Je précise que ce n'est pas un œuvre autobiographique
 ```
 
  - C'est ma scène, je suis chez moi

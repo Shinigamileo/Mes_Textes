@@ -11,6 +11,30 @@ au hasard et s'en inspirer pour faire un dessin. Mais je sais pas dessiner...
 Émotes : 'poisson' 'curry' 'notes de musique'
 ```
 
+ - Jepůlpáté
+```
+Basé sur la traduction en finnois (je crois) de "il est 4h30".
+J'ai trouvé ça marrant, du coup j'ai écrit un truc.
+...oui ben l'inspiration elle fait ce qu'elle veut et elle m'emmerde.
+```
+
+ - Compilation d'énigmes et de réponses alambiquées
+```
+Un recueil d'énigmes posées dans le cadre du confinement de février-mai 2020.
+Ici j'ai mis les intitulés de certaines de ces énigmes et mes réponses justes
+bien qu'incongrues.
+Vous pouvez vous amusez à d'abord résoudre les énigmes ou bien directement
+apprécier les réponses que j'ai concoctées. À vous de voir.
+```
+
+ - Quicornes violettes
+```
+Quand je pense à des petites phrases ou des tout petits poèmes à deux ronds, je les met là.
+Le titre est un jeu de mot pourri basé sur des synonymes.
+C'est aussi ici que je met certains textes d'ateliers quand ils ont davantage une allure 
+de poème.
+```
+
  - Gagou, ankou
 ```
 Première création à l'atelier d'écriture de Bergerac Hoplaplume. (13/01/20)
@@ -32,15 +56,27 @@ Thème : "Un Amour vécu (avec un grand A)"
 J'ai pas de chien, pas de chat, pas de petite amie... Du coup...
 ```
 
- - Quicornes violettes
-```
-Quand je pense à des petites phrases ou des tout petits poèmes à deux ronds, je les met là.
-Le titre est un jeu de mot pourri basé sur des synonymes.
-```
-
- - Si je mettais la main à la pâte
+ - Si j'étais un titre, ce serait "Si j'étais un titre,..."
 ```
 Quatrième création pour l'atelier d'écriture de Bergerac Hoplaplume. (03/02/20)
 Thème : "Si j'étais un ustensile de cuisine / un met culinaire / un arbre / un oiseau / un écrivain"
-Vrasiemblablement, l'un de mes organes me chatouillait durant l'écriture de ce texte.
+Vraisemblablement, l'un de mes organes me chatouillait durant l'écriture de ce texte.
+```
+
+ - Jusqu'au retour de l'Aigle
+```
+Première création à l'atelier d'écriture de Bergerac Hoplaplume
+durant le confinement de novembre 2020.
+Thème : "Vous avez 7 ans et vous vous amusez"
+C'était Halloween... du coup deux points :
+ 1.) attendez-vous à un peu d'horreur, vous êtes prévenus,
+ 2.) et vu qu'on me le demande régulièrement : non ce n'est pas autobiographique.
+```
+
+ - C'est ma scène, je suis chez moi
+```
+Deuxième création à l'atelier d'écriture de Bergerac Hoplaplume
+durant le confinement de novembre 2020.
+Thème : "Vous êtes dans une salle de spectacle, vous observez le public"
+Pour une fois que mon expérience de comédien me sert à quelque chose !
 ```

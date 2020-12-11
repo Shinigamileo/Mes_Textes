@@ -25,6 +25,9 @@ Ici j'ai mis les intitulés de certaines de ces énigmes et mes réponses justes
 bien qu'incongrues.
 Vous pouvez vous amusez à d'abord résoudre les énigmes ou bien directement
 apprécier les réponses que j'ai concoctées. À vous de voir.
+P.S : les liens du pdf ne marchent pas sur ce site et certaines réponses
+      demeurent cachées car on ne peut pas surligner. Du coup hésitez pas
+      à le télécharger (même si c'est pour le crisser ensuite)
 ```
 
  - Quicornes violettes
